@@ -112,6 +112,11 @@
 <info_type>BAS</info_type>
 <helpinfo><![CDATA[]]></helpinfo>
 <masseditable>0</masseditable>
+<picklistvalues>
+<picklistvalue>Organizacional</picklistvalue>
+<picklistvalue>Lógico</picklistvalue>
+<picklistvalue>Físico</picklistvalue>
+</picklistvalues>
 </field>
 <field>
 <fieldname>created_user_id</fieldname>
@@ -139,7 +144,7 @@
 <columnname>catalogosalvaguarda_no</columnname>
 <tablename>vtiger_catalogosalvaguarda</tablename>
 <generatedtype>1</generatedtype>
-<fieldlabel>Catalogosalvaguarda_no</fieldlabel>
+<fieldlabel>Catalogosalvaguarda No</fieldlabel>
 <readonly>1</readonly>
 <presence>0</presence>
 <selected>0</selected>
