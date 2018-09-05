@@ -140,7 +140,7 @@
 </field>
 <field>
 <fieldname>catalogosalvaguarda_no</fieldname>
-<uitype>1</uitype>
+<uitype>4</uitype>
 <columnname>catalogosalvaguarda_no</columnname>
 <tablename>vtiger_catalogosalvaguarda</tablename>
 <generatedtype>1</generatedtype>
@@ -157,6 +157,10 @@
 <info_type>BAS</info_type>
 <helpinfo><![CDATA[]]></helpinfo>
 <masseditable>0</masseditable>
+<entityidentifier>
+<entityidfield>catalogosalvaguardaid</entityidfield>
+<entityidcolumn>catalogosalvaguardaid</entityidcolumn>
+</entityidentifier>
 </field>
 <field>
 <fieldname>createdtime</fieldname>

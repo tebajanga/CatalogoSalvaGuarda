@@ -6,8 +6,8 @@
 			<sql><![CDATA[CREATE TABLE `vtiger_catalogosalvaguarda` (
   `catalogosalvaguardaid` int(11) NOT NULL,
   `referencia` varchar(250) default NULL,
-  `tiposalvaguarda' varchar(150) default NULL,
-  `catalogosalvaguarda_no' varchar(250) default NULL,
+  `tiposalvaguarda` varchar(150) default NULL,
+  `catalogosalvaguarda_no` varchar(250) default NULL,
   PRIMARY KEY (`catalogosalvaguardaid`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
 		</table>
