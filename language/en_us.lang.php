@@ -9,14 +9,16 @@
  ************************************************************************************/
 
 $mod_strings = array(
-	'ModuleName' => 'Module Name',
-	'SINGLE_ModuleName' => 'Module Name',
-	'ModuleName ID' => 'Module Name ID',
+	'CatalogoSalvaGuarda' => 'CatalogoSalvaGuarda',
+	'SINGLE_CatalogoSalvaGuarda' => 'CatalogoSalvaGuarda',
+	'CatalogoSalvaGuarda ID' => 'CatalogoSalvaGuarda ID',
 
 	'LBL_CUSTOM_INFORMATION' => 'Custom Information',
-	'LBL_MODULEBLOCK_INFORMATION' => 'ModuleBlock Information',
+	'LBL_CATALOGOSALVAGUARDA_INFORMATION' => 'CatalogoSalvaGuarda Information',
 	'LBL_DESCRIPTION_INFORMATION' => 'Description',
 
-	'ModuleFieldLabel' => 'ModuleFieldLabel Text',
+	'Referencia' => 'Reference',
+	'Tiposalvaguarda' => 'Storage Type',
+	'Catalogosalvaguarda No' => 'Catalog Safeguard No',
 );
 ?>

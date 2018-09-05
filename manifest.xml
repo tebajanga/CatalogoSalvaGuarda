@@ -59,7 +59,7 @@
 <columnname>referencia</columnname>
 <tablename>vtiger_catalogosalvaguarda</tablename>
 <generatedtype>1</generatedtype>
-<fieldlabel>referencia</fieldlabel>
+<fieldlabel>Referencia</fieldlabel>
 <readonly>1</readonly>
 <presence>0</presence>
 <selected>0</selected>
@@ -99,7 +99,7 @@
 <columnname>tiposalvaguarda</columnname>
 <tablename>vtiger_catalogosalvaguarda</tablename>
 <generatedtype>1</generatedtype>
-<fieldlabel>tiposalvaguarda</fieldlabel>
+<fieldlabel>Tiposalvaguarda</fieldlabel>
 <readonly>1</readonly>
 <presence>0</presence>
 <selected>0</selected>
@@ -139,7 +139,7 @@
 <columnname>catalogosalvaguarda_no</columnname>
 <tablename>vtiger_catalogosalvaguarda</tablename>
 <generatedtype>1</generatedtype>
-<fieldlabel>catalogosalvaguarda_no</fieldlabel>
+<fieldlabel>Catalogosalvaguarda_no</fieldlabel>
 <readonly>1</readonly>
 <presence>0</presence>
 <selected>0</selected>

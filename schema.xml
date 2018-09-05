@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<schema>
+	<tables>
+		<table>
+			<name>vtiger_catalogosalvaguarda</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_catalogosalvaguarda` (
+  `catalogosalvaguardaid` int(11) NOT NULL,
+  `referencia` varchar(250) default NULL,
+  `tiposalvaguarda' varchar(150) default NULL,
+  `catalogosalvaguarda_no' varchar(250) default NULL,
+  PRIMARY KEY (`catalogosalvaguardaid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+		<table>
+			<name>vtiger_catalogosalvaguardacf</name>
+			<sql><![CDATA[CREATE TABLE `vtiger_catalogosalvaguardacf` (
+  `catalogosalvaguardaid` int(11) NOT NULL,
+  PRIMARY KEY (`catalogosalvaguardaid`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8]]></sql>
+		</table>
+	</tables>
+</schema>
